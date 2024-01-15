@@ -1,3 +1,4 @@
+I need help to run and import other mods, check lines 122 and 123 in build.gradle, I'm trying to run JEI, but it's not working.
 
 Source installation information for modders
 -------------------------------------------
